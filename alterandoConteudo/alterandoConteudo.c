@@ -12,7 +12,7 @@ int main(){
     printf("\n\n");
     
     for(i=0; i<10;i++){
-        num2[i]*=3;1
+        num2[i]*=3;
     }
 
     printf("\n\n");
